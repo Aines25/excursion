@@ -1,0 +1,24 @@
+html {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: white;}
+
+body {background-color: black;
+text-align: center;}
+
+h1 {}
+
+.download {color: aquamarine;
+text-decoration: underline;}
+
+.yptg {font-size: 42px;
+font-weight: 300px;}
+
+.info {color: gray;
+font-size: 21px;}
+
+.main {font-size: 50px;}
+
+.phone {padding-top: 25px;}
+
+footer {text-align: right;
+color: gray;}
